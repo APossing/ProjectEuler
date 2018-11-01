@@ -1,0 +1,6 @@
+C:\Users\atom\Documents\ProjectEuler\ProjectEuler\SolutionAlgorithms\bin\Debug\SolutionAlgorithms.dll
+C:\Users\atom\Documents\ProjectEuler\ProjectEuler\SolutionAlgorithms\bin\Debug\SolutionAlgorithms.pdb
+C:\Users\atom\Documents\ProjectEuler\ProjectEuler\SolutionAlgorithms\obj\Debug\SolutionAlgorithms.csprojAssemblyReference.cache
+C:\Users\atom\Documents\ProjectEuler\ProjectEuler\SolutionAlgorithms\obj\Debug\SolutionAlgorithms.csproj.CoreCompileInputs.cache
+C:\Users\atom\Documents\ProjectEuler\ProjectEuler\SolutionAlgorithms\obj\Debug\SolutionAlgorithms.dll
+C:\Users\atom\Documents\ProjectEuler\ProjectEuler\SolutionAlgorithms\obj\Debug\SolutionAlgorithms.pdb

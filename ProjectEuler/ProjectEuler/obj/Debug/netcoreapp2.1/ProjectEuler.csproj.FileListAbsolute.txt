@@ -1,0 +1,14 @@
+C:\Users\atom\Documents\ProjectEuler\ProjectEuler\ProjectEuler\bin\Debug\netcoreapp2.1\ProjectEuler.deps.json
+C:\Users\atom\Documents\ProjectEuler\ProjectEuler\ProjectEuler\bin\Debug\netcoreapp2.1\ProjectEuler.runtimeconfig.json
+C:\Users\atom\Documents\ProjectEuler\ProjectEuler\ProjectEuler\bin\Debug\netcoreapp2.1\ProjectEuler.runtimeconfig.dev.json
+C:\Users\atom\Documents\ProjectEuler\ProjectEuler\ProjectEuler\bin\Debug\netcoreapp2.1\ProjectEuler.dll
+C:\Users\atom\Documents\ProjectEuler\ProjectEuler\ProjectEuler\bin\Debug\netcoreapp2.1\ProjectEuler.pdb
+C:\Users\atom\Documents\ProjectEuler\ProjectEuler\ProjectEuler\bin\Debug\netcoreapp2.1\SolutionAlgorithms.dll
+C:\Users\atom\Documents\ProjectEuler\ProjectEuler\ProjectEuler\bin\Debug\netcoreapp2.1\SolutionAlgorithms.pdb
+C:\Users\atom\Documents\ProjectEuler\ProjectEuler\ProjectEuler\obj\Debug\netcoreapp2.1\ProjectEuler.csprojAssemblyReference.cache
+C:\Users\atom\Documents\ProjectEuler\ProjectEuler\ProjectEuler\obj\Debug\netcoreapp2.1\ProjectEuler.csproj.CoreCompileInputs.cache
+C:\Users\atom\Documents\ProjectEuler\ProjectEuler\ProjectEuler\obj\Debug\netcoreapp2.1\ProjectEuler.AssemblyInfoInputs.cache
+C:\Users\atom\Documents\ProjectEuler\ProjectEuler\ProjectEuler\obj\Debug\netcoreapp2.1\ProjectEuler.AssemblyInfo.cs
+C:\Users\atom\Documents\ProjectEuler\ProjectEuler\ProjectEuler\obj\Debug\netcoreapp2.1\ProjectEuler.csproj.CopyComplete
+C:\Users\atom\Documents\ProjectEuler\ProjectEuler\ProjectEuler\obj\Debug\netcoreapp2.1\ProjectEuler.dll
+C:\Users\atom\Documents\ProjectEuler\ProjectEuler\ProjectEuler\obj\Debug\netcoreapp2.1\ProjectEuler.pdb
