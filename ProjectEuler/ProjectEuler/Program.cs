@@ -12,6 +12,7 @@ namespace ProjectEuler
 
             //IProblem problem = new Problem3();
             //IProblem problem = new Problem9();
+            IProblem problem = new Problem8();
 
             problem.SolveProblem(false, false);
             stopwatch.Stop();
