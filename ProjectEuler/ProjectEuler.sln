@@ -3,9 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2026
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectEuler", "ProjectEuler\ProjectEuler.csproj", "{3E1471E7-EDAE-4A4F-8E6E-DAD881BBC836}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProjectEuler", "ProjectEuler\ProjectEuler.csproj", "{3E1471E7-EDAE-4A4F-8E6E-DAD881BBC836}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolutionAlgorithms", "SolutionAlgorithms\SolutionAlgorithms.csproj", "{2887F8AF-2817-4516-9874-843EE60C8160}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolutionAlgorithmsTests", "SolutionAlgorithmsTests\SolutionAlgorithmsTests.csproj", "{F0092447-3548-49BD-A445-49084009BF3F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XUnitTestProject1", "XUnitTestProject1\XUnitTestProject1.csproj", "{46F4A823-0606-4C9D-9B36-B2FAC4FFAFFC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject2", "UnitTestProject2\UnitTestProject2.csproj", "{074097ED-FAC1-4ADF-A03D-E75B31C50FA8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +27,18 @@ Global
 		{2887F8AF-2817-4516-9874-843EE60C8160}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2887F8AF-2817-4516-9874-843EE60C8160}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2887F8AF-2817-4516-9874-843EE60C8160}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0092447-3548-49BD-A445-49084009BF3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0092447-3548-49BD-A445-49084009BF3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0092447-3548-49BD-A445-49084009BF3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0092447-3548-49BD-A445-49084009BF3F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46F4A823-0606-4C9D-9B36-B2FAC4FFAFFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46F4A823-0606-4C9D-9B36-B2FAC4FFAFFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46F4A823-0606-4C9D-9B36-B2FAC4FFAFFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46F4A823-0606-4C9D-9B36-B2FAC4FFAFFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{074097ED-FAC1-4ADF-A03D-E75B31C50FA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{074097ED-FAC1-4ADF-A03D-E75B31C50FA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{074097ED-FAC1-4ADF-A03D-E75B31C50FA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{074097ED-FAC1-4ADF-A03D-E75B31C50FA8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
