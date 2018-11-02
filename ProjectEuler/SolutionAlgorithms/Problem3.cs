@@ -7,8 +7,9 @@ using System.Threading.Tasks;
 
 namespace SolutionAlgorithms
 {
-    //O(N^2) Solves in 5.6 seconds
-    public class Problem3
+    //O(N^2) 
+    //Solves in 5.6 seconds
+    public class Problem3 : IProblem
     {
         private List<BigInteger> _primeFactors;
 

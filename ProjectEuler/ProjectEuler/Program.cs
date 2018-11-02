@@ -9,8 +9,11 @@ namespace ProjectEuler
         static void Main(string[] args)
         {
             Stopwatch stopwatch = Stopwatch.StartNew();
-            Problem3 prob3 = new Problem3();
-            prob3.SolveProblem(false, false);
+
+            //IProblem problem = new Problem3();
+            //IProblem problem = new Problem9();
+
+            problem.SolveProblem(false, false);
             stopwatch.Stop();
             Console.WriteLine(stopwatch.Elapsed);
             Console.ReadKey();
